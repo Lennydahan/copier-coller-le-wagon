@@ -34,14 +34,9 @@
   display: inline-block;
   font-size: 16px;
 }
-.container{
+.wrapper{
 	color: pink;
 	background-color: pink;
-	margin: 120px;
-	display: flex;
-    justify-content: space-between;
-flex-direction: row;
-flex-wrap: wrap;
 }
 
 .card-white {
